@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudio\\home\\home-2-8-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\home-2-8-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|solutionrelative:home-2-8-2\\home-2-8-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\check.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|solutionrelative:home-2-8-2\\check.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\check.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|solutionrelative:home-2-8-2\\check.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\4ugla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|solutionrelative:home-2-8-2\\4ugla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\4ugla.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|solutionrelative:home-2-8-2\\4ugla.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\3ugla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|solutionrelative:home-2-8-2\\3ugla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\3ugla.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF3AE66-FCBD-49F3-8AE1-CDFFEA9B7844}|home-2-8-2\\home-2-8-2.vcxproj|solutionrelative:home-2-8-2\\3ugla.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home-2-8-2.cpp",
+              "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\home-2-8-2.cpp",
+              "RelativeDocumentMoniker": "home-2-8-2\\home-2-8-2.cpp",
+              "ToolTip": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\home-2-8-2.cpp",
+              "RelativeToolTip": "home-2-8-2\\home-2-8-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-09T06:05:37.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3ugla.cpp",
+              "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\3ugla.cpp",
+              "RelativeDocumentMoniker": "home-2-8-2\\3ugla.cpp",
+              "ToolTip": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\3ugla.cpp",
+              "RelativeToolTip": "home-2-8-2\\3ugla.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T18:57:05.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3ugla.h",
+              "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\3ugla.h",
+              "RelativeDocumentMoniker": "home-2-8-2\\3ugla.h",
+              "ToolTip": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\3ugla.h",
+              "RelativeToolTip": "home-2-8-2\\3ugla.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T18:57:41.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4ugla.cpp",
+              "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\4ugla.cpp",
+              "RelativeDocumentMoniker": "home-2-8-2\\4ugla.cpp",
+              "ToolTip": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\4ugla.cpp",
+              "RelativeToolTip": "home-2-8-2\\4ugla.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T18:58:14.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "4ugla.h",
+              "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\4ugla.h",
+              "RelativeDocumentMoniker": "home-2-8-2\\4ugla.h",
+              "ToolTip": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\4ugla.h",
+              "RelativeToolTip": "home-2-8-2\\4ugla.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T18:58:34.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "check.cpp",
+              "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\check.cpp",
+              "RelativeDocumentMoniker": "home-2-8-2\\check.cpp",
+              "ToolTip": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\check.cpp",
+              "RelativeToolTip": "home-2-8-2\\check.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T19:36:45.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "check.h",
+              "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\check.h",
+              "RelativeDocumentMoniker": "home-2-8-2\\check.h",
+              "ToolTip": "E:\\VisualStudio\\home\\home-2-8-2\\home-2-8-2\\check.h",
+              "RelativeToolTip": "home-2-8-2\\check.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T19:37:09.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
